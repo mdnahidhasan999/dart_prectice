@@ -48,7 +48,7 @@ void main() {
   //   i++;
   //   } while(i<10);
 
-  //Function
+  //Function in Dart
 
   // addTwoNumbers() {
   //   var a = 10;
@@ -59,7 +59,7 @@ void main() {
 
   // addTwoNumbers();
 
-  //passing arguments
+  //passing arguments to function
 
   addTwoNumbers(int a, int b) {
     var sum = a + b;
