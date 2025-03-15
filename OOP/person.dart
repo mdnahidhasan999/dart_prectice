@@ -1,6 +1,6 @@
 class Person {
-  String _fname;
-  String _lname;
+  final String _fname;
+  final String _lname;
   int age;
   String _gender;
 
