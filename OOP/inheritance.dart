@@ -19,7 +19,7 @@ class Human {
   }
 }
 
-// child class
+// child class of Human
 class Student extends Human {
   String institution;
   String section;
